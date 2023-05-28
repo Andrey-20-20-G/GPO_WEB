@@ -23,7 +23,18 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.search-area{
+  /* margin-top: 10;
+  margin-left: 10;
+  width: 300;
+  height: 300; */
+  color: beige;
+}
+.graph-location
+{
+  margin-top: 50px;
+  margin-left: 50px;
+}
 .App-link {
   color: #61dafb;
 }
